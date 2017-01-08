@@ -1,0 +1,17 @@
+# pytohn cache
+__pycache__/
+# pip
+/.eggs/
+/*.egg-info/
+/build/
+# testing
+/.tox/
+.coverage
+/coverage/
+/.hypothesis/
+.cache/
+# IDE
+.idea/
+# outputs
+/*.png
+/*.svg
